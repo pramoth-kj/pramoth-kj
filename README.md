@@ -35,6 +35,10 @@ class Skills extends EngineeringStudent {
   frameworks = ['Pandas', 'NumPy', 'Matplotlib' , 'Seaborn', 'scikit-learn', 'TensorFlow' , 'PyTorch']
 }
 ```
+
+## 📫 How to reach me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pramoth-kj/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pramoth_kj/)  &nbsp; <a href="mailto:pramothkj751@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 ```console
 pramoth-kj@github:~$ sudo echo "* * * * * /usr/local/bin/debug" >> /tmp/crontab$$
 ```
