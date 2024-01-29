@@ -6,7 +6,8 @@ pramoth-kj@github:~$ ./welcome.sh
 ![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
 ![Status](https://img.shields.io/badge/Status-Enthiran%20Mode%20Activated-lightgreen)
 ![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
-![Thalaivar Mode](https://img.shields.io/badge/Thalaivar%20Mode-Activated-red)
+![Marvel Mode: Engaged](https://img.shields.io/badge/Marvel%20Mode-Engaged%20🦸‍♂️-blueviolet)
+When this mode activates, even villains take notes in awe, for in this realm, heroes rise like dawn and legends walk among us like gods!
 ```
  _____________________________________
 < Welcome to my personal github page! >
