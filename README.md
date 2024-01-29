@@ -1,3 +1,5 @@
+<img src='https://github.com/pramoth-kj/pramoth-kj/blob/main/upper.jpg' width="100%" />
+
 ```console
 pramoth-kj@github:~$ ./welcome.sh
 ```
