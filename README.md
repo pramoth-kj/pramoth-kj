@@ -6,7 +6,6 @@ pramoth-kj@github:~$ ./welcome.sh
 ![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
 ![Status](https://img.shields.io/badge/Status-Enthiran%20Mode%20Activated-lightgreen)
 ![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
-![Marvel Mode: Engaged](https://img.shields.io/badge/Marvel%20Mode-Engaged%20🦸‍♂️-blueviolet)
 ```
  _____________________________________
 < Welcome to my personal github page! >
