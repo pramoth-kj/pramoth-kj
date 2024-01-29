@@ -7,7 +7,6 @@ pramoth-kj@github:~$ ./welcome.sh
 ![Status](https://img.shields.io/badge/Status-Enthiran%20Mode%20Activated-lightgreen)
 ![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
 ![Marvel Mode: Engaged](https://img.shields.io/badge/Marvel%20Mode-Engaged%20🦸‍♂️-blueviolet)
-When this mode activates, even villains take notes in awe, for in this realm, heroes rise like dawn and legends walk among us like gods!
 ```
  _____________________________________
 < Welcome to my personal github page! >
