@@ -20,6 +20,11 @@ class Bio extends EngineeringStudent {
   location = 'Coimbatore,TamilNadu,India';
   Ambition  = 'I want to write code so flawless that even bugs apologize for intruding!';
 }
+```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramoth-kj&label=Profile%20views&color=0e75b6&style=flat" alt="sanjail3" /> </p>
+
+
+```js
 
 class Skills extends EngineeringStudent {
   languages  = ['C','C++','Python'];
