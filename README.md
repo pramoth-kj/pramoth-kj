@@ -1,4 +1,3 @@
-![Profile Image](https://raw.githubusercontent.com/pramoth-kj/pramoth-kj/main/upper.jpg)
 
 ```console
 pramoth-kj@github:~$ ./welcome.sh
