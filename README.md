@@ -1,12 +1,12 @@
 ```console
 pramoth-kj@github:~$ ./welcome.sh
 ```
-![Release Date](https://img.shields.io/badge/Release-12%20March-lightblue)
+![Release Date](https://img.shields.io/badge/Release-May%29-lightblue)
 ![Preferred Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
 ![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
 ![Status](https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen)
 ![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
-
+![Thalaivar Mode](https://img.shields.io/badge/Thalaivar%20Mode-Activated-red)
 ```
  _____________________________________
 < Welcome to my personal github page! >
