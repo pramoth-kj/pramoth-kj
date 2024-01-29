@@ -1,7 +1,7 @@
 ```console
 pramoth-kj@github:~$ ./welcome.sh
 ```
-![Release Date](https://img.shields.io/badge/Release-May%29-lightblue)
+![Release Date](https://img.shields.io/badge/Release-May%2029-lightblue)
 ![Preferred Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
 ![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
 ![Status](https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen)
