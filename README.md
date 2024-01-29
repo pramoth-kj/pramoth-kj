@@ -4,7 +4,7 @@ pramoth-kj@github:~$ ./welcome.sh
 ![Release Date](https://img.shields.io/badge/Release-May%2029-lightblue)
 ![Preferred Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
 ![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
-![Status](https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen)
+![Status](https://img.shields.io/badge/Status-Enthiran%20Mode%20Activated-lightgreen)
 ![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
 ![Thalaivar Mode](https://img.shields.io/badge/Thalaivar%20Mode-Activated-red)
 ```
