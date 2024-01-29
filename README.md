@@ -1,8 +1,11 @@
 ```console
 pramoth-kj@github:~$ ./welcome.sh
 ```
-<img src="https://img.shields.io/badge/Release-12%20March-lightblue" alt="release: 12th March" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink" alt="pronouns: he/him" /> <img src="https://img.shields.io/badge/%F0%9F%94%A7Editor-vscode-yellow" alt="Editor: VSCode"> <img src="https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen" alt="Operational: functioning as intended" />  <img src="https://img.shields.io/badge/Vibe-awesome-blueviolet" alt="vibe: awesome" />
-
+![Release Date](https://img.shields.io/badge/Release-12%20March-lightblue)
+![Preferred Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
+![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
+![Status](https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen)
+![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
 
 ```
  _____________________________________
