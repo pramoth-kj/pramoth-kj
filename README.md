@@ -1,4 +1,4 @@
-<h2 style="font-family: Comic Sans MS; color: #ff00ff;">Guess who decided to grace us with their presence? Yours truly, Pramoth K J!  <imgsrc="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2 style="font-family: Comic Sans MS; color: #ff00ff;">Guess who decided to grace us with their presence? Yours truly, Pramoth KJ<imgsrc="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 ```console
 pramoth-kj@github:~$ ./welcome.sh
