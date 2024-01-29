@@ -52,3 +52,9 @@ Life is ruff, but a loyal dog is the best debugger—always ready to fetch solut
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=pramoth-kj&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
+
+## Activity Graph ⚡ 
+
+<br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pramoth-kj&theme=github-dark"/>
+<hr><br>
