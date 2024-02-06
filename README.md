@@ -1,69 +1,48 @@
-<h2>Hey there, it's Pramoth K J!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h1 align="center">
+  Hey there, I'm Pramoth 👋
+</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
+</p>
 
-```console
-pramoth-kj@github:~$ ./welcome.sh
-```
-![Release Date](https://img.shields.io/badge/Release-May%2029-lightblue)
-![Preferred Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
-![Editor](https://img.shields.io/badge/%F0%9F%94%A7Editor-VSCode-yellow)
-![Status](https://img.shields.io/badge/Status-Enthiran%20Mode%20Activated-lightgreen)
-![Vibe](https://img.shields.io/badge/Vibe-Badass-blueviolet)
+<p align="center">
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue">
+  <img src="https://img.shields.io/badge/Editor-VSCode-yellow">  
+  <img src="https://img.shields.io/badge/Status-Enthiran%20Mode%20Activated-brightgreen">
+</p>
 
-```js
-import { EngineeringStudent } from '@pramoth-kj';
+<h3 align="center">
+  B.Tech Artificial Intelligence and Data Science Student | AI Enthusiast
+</h3>
 
-class Bio extends EngineeringStudent {
-  name     = 'Pramoth K J';
-  title    = 'B.Tech AI&DS Student';
-  college  = 'Sri Eshwar College of Engineering';
-  location = 'Coimbatore,TamilNadu,India';
-  Ambition  = 'I want to write code so flawless that even bugs apologize for intruding!';
-}
-```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramoth-kj&label=Profile%20views&color=0e75b6&style=flat" alt="sanjail3" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pramoth-kj/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/pramoth_kj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="mailto:pramothkj751@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
 
+<!-- Github Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramoth-kj&show_icons=true&theme=dark&hide_border=true" alt="Pramoth's github stats"> 
+</p>
 
-```js
+<!-- Languages -->  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramoth-kj&theme=dark&hide_border=true&layout=compact" alt="Pramoth's Top Languages">
+</p>
 
-class Skills extends EngineeringStudent {
-  languages  = ['C','C++','Python'];
-  tools = ['KNIME', 'PowerBI', 'VSCode', 'GitHub']
-  OS = ['Linux', 'Windows'] 
-  Core_Concepts = ['Data Structure and Algorithms', 'OOPS', 'Operating System']
-  Domain_Knowledge = ['Cyber Security', 'Data Science', 'Machine Learning']
-  frameworks = ['Pandas', 'NumPy', 'Matplotlib' , 'Seaborn', 'scikit-learn', 'TensorFlow' , 'PyTorch']
-}
-```
+<!-- Github Contributions -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pramoth-kj&theme=black-ice&hide_border=true" alt="Pramoth's Github Contributions">
+</p> 
 
-## 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pramoth-kj/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pramoth_kj/)  &nbsp; <a href="mailto:pramothkj751@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pramoth-kj&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Pramoth's Activity Graph">  
+</p>
 
-```console
-pramoth-kj@github:~$ sudo echo "* * * * * /usr/local/bin/debug" >> /tmp/crontab$$
-```
-
-```
-[sudo] Password for pramoth-kj:
-
-Life is ruff, but a loyal dog is the best debugger—always ready to fetch solutions and wag away the bugs!
-
-    / \__
-  (    @\___
-  /         O
- /   (_____/
-/_____/   U
-
-```
-## Github Contribution Streak 🔥 
-
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=pramoth-kj&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-<hr><br>
-
-## Activity Graph ⚡ 
-
-<br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pramoth-kj&theme=github-dark"/>
-<hr><br>
+<!-- Technologies -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,linux,github,vscode,arduino" />
+</p>
