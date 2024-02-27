@@ -21,7 +21,7 @@ class Bio extends EngineeringStudent {
   Ambition  = 'I want to write code so flawless that even bugs apologize for intruding!';
 }
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramoth-kj&label=Profile%20views&color=0e75b6&style=flat" alt="sanjail3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramoth-kj&label=Profile%20views&color=0e75b6&style=flat" alt="pramoth-kj" /> </p>
 
 
 ```js
